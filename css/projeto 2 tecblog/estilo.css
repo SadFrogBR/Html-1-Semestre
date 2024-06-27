@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #E6E6E6;
+}
+
+#area-cabecalho{
+    background-color: #f7b600;
+    padding: 15px;
+    text-align: center;
+}
+
+#area-logo, #area-menu{
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited{
+    color:#f7b600;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#area-cabecalho a:link, a:visited{
+    color: white;
+    padding: 8px 12px;
+}
+
+
+#area-cabecalho a:hover{
+    color: #f7b600;
+    background: #fff;
+    text-decoration: none;
+}
+
+
+
+h1 {
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+.branco{
+    color:white;
+}
+
+#area-principal{
+    width: 920px;
+    margin: 0 auto;
+}
+
+.postagem{
+    width: 650px;
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-right: 10px;
+    background: white;
+}
+
+h4{
+    font-size: 1.3em;
+    color:#f7b600;
+    padding-top: 30px;
+}
+
+h3{
+    font-size: 1.2;
+    color: #4e4e4e;
+    background: #DBD9DA;
+    padding: 5px;
+    font-weight: bold;
+}
+
+p{
+    padding: 5px 0;
+}
+
+img{
+    padding-top:15px;
+}
+
+.flutuante{
+    width: 200px;
+    padding: 10px;
+    background-color: white;
+}
+
+#direita{
+    float: right;
+    margin-left: 10px;
+}
+
+
+
+#rodape{
+    background-color: gray;
+    padding: 15px;
+    text-align: center;
+}
+

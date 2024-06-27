@@ -1,0 +1,44 @@
+body{
+    background-image: url('img/fundo.png');
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#principal{
+    width: 900px;
+}
+
+a{
+    padding: 5px;
+    text-decoration: none;
+    color: #465263;
+    font-weight: bold;
+
+}
+
+h3{
+    color: #828470;
+    font-size: 1.2em;
+}
+
+.bordas{
+    border-color: #D3D3BE;
+    border-style: solid;
+    border-width: 10px;
+}
+
+.navbar{
+    background-color: #D3D3BE;
+    padding: 18px;
+}
+
+
+.fundo-texto{
+    background-color: #FCFBEC;
+    padding: 10px;
+
+}
+
+.rodape{
+    text-align: center;
+}
